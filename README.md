@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakti2505" alt="shakti2505" /></a> </p>
 
-- 🔭 I’m currently working on [SocialBook](https://socialbook-x3jq.onrender.com/)
+- 🔭 I’m currently working on [SayIt](https://github.com/shakti2505/sayit)
 
-- 🌱 I’m currently learning **Express, React, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Express, React, NodeJs, MongoDB WebSockets, Socket Adapters**
 
 - 💬 Ask me about **javascript, React, MongoDB, NodeJs, Express**
 
