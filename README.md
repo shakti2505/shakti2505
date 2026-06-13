@@ -11,7 +11,7 @@ Building scalable backend systems, AI-powered applications, and high-performance
 <p align="center">
 <a href="mailto:kashyapshakti1994@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/shakti-kashyap-3a4271222/">LinkedIn</a> •
-<a href="https://github.com/shakti2505">GitHub</a>
+<a href="https://github.com/shakti2505">GitHub</a> •
 <a href="https://shaktikashyap.netlify.app/">Portfolio</a>
 
 </p>
