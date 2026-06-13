@@ -1,29 +1,109 @@
-<h1 align="center">Hi 👋, I'm Shakti Kashyap</h1>
-<h3 align="center">A Passionate MERN Stack Developer dedicated to sculpting immersive digital experiences. With a flair for creativity and a commitment to excellence, I thrive in architecting robust solutions that resonate with users. Constantly exploring new technologies and trends, I aim to push the boundaries of innovation while delivering seamless, user-centric applications. Let's code the future together</h3>
+# Hi 👋, I'm Shakti Kashyap
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakti2505&label=Profile%20views&color=0e75b6&style=flat" alt="shakti2505" /> </p>
+<h3 align="center">
+Full Stack Developer | Node.js | Next.js | Microservices | AI Agents | LangChain | LangGraph
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakti2505" alt="shakti2505" /></a> </p>
-
-- 🔭 I’m currently working on [SayIt](https://github.com/shakti2505/sayit)
-
-- 🌱 I’m currently learning **Express, React, NodeJs, MongoDB WebSockets, Socket Adapters**
-
-- 💬 Ask me about **javascript, React, MongoDB, NodeJs, Express**
-
-- 📫 How to reach me **kashyapshakti1994@gmail.com**
-
-- ⚡ Fun fact **I always like to make fun while working.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building scalable backend systems, AI-powered applications, and high-performance web platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="mailto:kashyapshakti1994@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/shakti-kashyap">LinkedIn</a> •
+<a href="https://github.com/shakti2505">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakti2505&show_icons=true&locale=en&layout=compact" alt="shakti2505" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakti2505&show_icons=true&locale=en" alt="shakti2505" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakti2505&" alt="shakti2505" /></p>
+* 💼 Full Stack Developer with **3+ years of experience**
+* 🔥 Specialized in **Node.js, Express.js, Next.js, React.js, MongoDB**
+* 🤖 Building **AI Agents, Multi-Agent Systems, LangChain & LangGraph Applications**
+* 🏗️ Experienced in **REST APIs, Microservices, WebSockets, System Design**
+* 📈 Passionate about **performance optimization, scalability, and clean architecture**
+* 🌱 Currently exploring **Agentic AI, RAG Systems, Vector Databases, MCP Servers**
+* 🎯 Open to exciting opportunities as an **Immediate Joiner**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+
+---
+
+## 🏆 Key Highlights
+
+* 🚀 Built scalable backend systems handling high-volume API traffic
+* 📊 Optimized analytics architecture by replacing expensive collection scans with pre-computed aggregations
+* 🤖 Developing AI-powered applications using LangChain and LangGraph
+* 🔄 Experience designing REST APIs, authentication systems, and microservices
+* ⚡ Strong understanding of performance optimization and database design
+
+---
+
+## 🔭 Current Focus
+
+* Multi-Agent AI Systems
+* LangGraph Workflows
+* RAG Architectures
+* Scalable Node.js Backends
+* System Design & Distributed Systems
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti2505&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakti2505&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakti2505&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [kashyapshakti1994@gmail.com](mailto:kashyapshakti1994@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/shakti-kashyap
+
+⭐ **Open to Full Stack, Backend, and AI Engineer opportunities**
